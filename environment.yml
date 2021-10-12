@@ -1,0 +1,12 @@
+name: PerfectVirtual
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - seaborn
+  - keras
+  - notebook
+  - scikit-learn
+  - numpy==1.19.2
+prefix: C:\Users\matth\anaconda3\envs\PerfectVirtual
